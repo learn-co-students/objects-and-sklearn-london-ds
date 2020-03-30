@@ -1,7 +1,7 @@
 # objects-and-sklearn-london-ds
 
 * [ ] [Slides](https://docs.google.com/presentation/d/1NX5HUPvrKfx--mruNrK1Eo-FUtHyxOB0amom5BlXpsw/edit?usp=sharing)
-* [ ] [Exit Ticket]()
+* [ ] [Exit Ticket](https://docs.google.com/forms/d/e/1FAIpQLSf3m7nJt7IEux6UGGm5cpcDuks65mv5zEXvO6dhPPAwEnG--Q/viewform)
 
 ## Objects and SKLearn
 
